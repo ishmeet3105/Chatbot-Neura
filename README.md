@@ -23,7 +23,7 @@ Key Features
 > Deep Learning Architecture: The chatbot's core functionality is underpinned by a deep learning architecture, enabling it to learn and improve its responses over time through exposure to new data.
 
 > Personalized Recommendations: Neura can tailor its recommendations to individual users based on their specific symptoms, medical history, and other relevant factors.
-User-Friendly Interface: The chatbot's interface is designed to be intuitive and easy to use, ensuring that users of all ages and technical backgrounds can benefit from its services.
+User-Friendly Interface: The chatbot's interface is designed to be intuitive and easy to use, ensuring that users of all ages  and technical backgrounds can benefit from its services.
 
 > Technical Implementation
 Neura is built using a combination of popular deep learning libraries, including:
