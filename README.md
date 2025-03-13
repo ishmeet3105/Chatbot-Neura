@@ -5,7 +5,8 @@
 Neura is a simple chatbot webapp designed to provide medical assistance to users through natural language interactions. Leveraging the power of deep learning, Neura is capable of understanding and responding to a wide range of medical queries, offering information and advice in a user-friendly manner.
 
 Project Preview:
-![image](https://github.com/user-attachments/assets/919dff55-a2e7-49d1-8f01-14f54faf8475)
+![Screenshot 2024-12-25 175524](https://github.com/user-attachments/assets/c62c5cb1-3cdc-46a5-8384-eee4e298012e)
+
 
   
 
